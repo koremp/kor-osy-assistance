@@ -8,6 +8,5 @@
 
 - [한국청소년상담복지개발원 KYCI](https://www.kyci.or.kr/)
   - 청소년 지원
-- ~~[학교밖청소년지원센터 꿈드림](https://www.kdream.or.kr/index.asp)~~
-  - 학교 밖 청소년 지원
-  - 현재 KYCI 사이트와 통합
+- [대전광역시 학교밖청소년지원센터](http://cumdream.or.kr/)
+  - kyci 산하 기관
