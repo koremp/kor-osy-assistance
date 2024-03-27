@@ -1,5 +1,7 @@
 # 한국 청소년 도우미
 
+기획이 더 필요할 것 같아서 여기까지
+
 [Seoul Tech Impact 2023](https://www.seoultechimpact.com/past-hackathons?year=2023) 해커톤에서 [osy-assistant](https://github.com/koremp/osy-assistant)(학교 밖 청소년 도우미)를 작업하던 것을 다시 개인 프로젝트로 작업
 
 - [Seoul Tech Impact OSY-Assistance 발표자료](https://docs.google.com/presentation/d/1_hpIDIYBVm355Kyia4AEUqvWEIt2B4-YlWpYBcPSvw4/edit?usp=sharing)
